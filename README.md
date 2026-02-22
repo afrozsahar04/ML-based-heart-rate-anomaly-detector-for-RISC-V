@@ -12,10 +12,6 @@ This repository contains a machine learning-based heart rate anomaly detection a
 - Designed for wearable AI and embedded applications
 
 
-## Figures
-
-![Anomaly Detected](figures/anomaly_detected_hr.jpg)
-
 ## Author
 - **Afroz Sahar** — Electrical (Electronics & Communications) Engineer
 - **Focus:** RISC-V, Digital Design, FPGA, Embedded Systems, Computer Architecture, RTL Design, VLSI Circuit Design, Hardware/Software Co-Design, Application-specific processor, Machine learning, AI
